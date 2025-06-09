@@ -3,12 +3,12 @@ body {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 302px;
-    background-color: rgb(6, 24, 62);
+    background-color: #2bdF35;
 }
 
 label
 {
-    color: #000058;
+    color: black;
     font-weight: 900;
 }
 
@@ -16,21 +16,21 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #000058;
+    border: 1px solid #bbffbb;
     margin-bottom: 4px;
 }
 
 button {
-    background: #000058;
+    background: #99ee99;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #000058;
+    border: 1px solid #bbffbb;
     font-weight: bold;
 }
 
 #delete-btn {
     background: white;
-    color: #000058;
+    color: black;
 }
 
 ul {
@@ -44,7 +44,7 @@ li {
 }
 
 a {
-    color: #1212cf;
+    color: darkgreen;
 }
 
 
